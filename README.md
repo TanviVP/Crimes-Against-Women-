@@ -1,6 +1,6 @@
 Analysis of crimes against women
 This project focuses on analyzing the patterns, trends, and geographical distribution of crimes against women in India using publicly available crime records. The analysis aims to identify high-risk regions and  observe yearly trends for year 2020 to 2022.
-The project uses data visualization tools like Power BI or Tableau to present interactive dashboards, enabling stakeholders to explore:
+The project uses data visualization tools like Power BI to present interactive dashboards, enabling stakeholders to explore:
 Crime distribution by state and union territory
 Year-over-year comparison (e.g., 2020–2022)
 Crime type contribution and severity
